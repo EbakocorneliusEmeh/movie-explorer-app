@@ -7,7 +7,7 @@ export default function Footer() {
       <footer className="containertwo">
         <div className="bfour">
           <h1>Company</h1>
-          <p>About Us</p>
+          <p>About us</p>
           <p>Careers</p>
         </div>
 
