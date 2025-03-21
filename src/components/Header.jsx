@@ -63,7 +63,7 @@ export default function Header() {
                 id="man"
               />
               <img
-                src="/public/images/search-imgool.png"
+                src="/images/search-imgool.png"
                 alt="search"
                 id="wom"
                 style={{ width: "15px", height: "15px" }}
@@ -81,7 +81,7 @@ export default function Header() {
         </div>
         <div className="movies">
           <img
-            src="https://s3-alpha-sig.figma.com/img/dffb/b860/559f834e0275c009608027ccae5ee787?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rkpO0pLndEZ7dHynMJtiO9nZc99PuLuk24zTVIUT0MRQscYgwziIDSruNUsKcB9UqDNlHZUJqUC04E9WCs7kZg6jC1AC03vSYMBX1lGNvQYsvHGpHPyKzBBx7JtMVI8Vl0jMzhAN5Ha3CDWP-mNKGJgraDO6IQLyQnh4l5A0ASPvLjuKjVte4awXJu9XvPTBnkihWYkEW~yqnHtTzbIThNcRpkKZfExR5AnD-h8xsa3F8DaqE3rBzP6uA2Aw7BFz~Vp7AIkV62inMC26DGLemANIx9ibBrVEsDyaBbHdZAR7OmvXszESGSKES4oAyYIAFkLStffuJaweSH9z8PolvA__"
+            src="https://s3-alpha-sig.figma.https://s3-alpha-sig.figma.com/img/44dd/d9c1/4b2cc5cc64806068acfe1df770c58553?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=mHbmX5vFWndAU20EbDmmTKGadypD5kVfNYmFor47Ra3YnoxK472ILpQ-ibBVjRJ~MwQ1YrsPZCYuTZnkM3MF8AtzIiO91qVBnWk4u9ky4~e74TnjL8jOcbFKbcLUlIQkoh-KOx5A9zGmxDHqH8~qG4JoORJImskNE1NifIO9zLufc1u6vYb3R6xAGomSOnwJdj7ZKuURbpQUfef2wWCcyuOSsjw1Dfg~AFQiHIodHReTLUshCrMvJ5~wukHas-RReQPZkJvDCUfB8yCq342eUpdYq1LhZHxmOBTXu5cz6Kc7HU9lU7LCQnhuLZNfTLH0zcSnhfAZ9Z3kVHrLIDPVKw__/img/dffb/b860/559f834e0275c009608027ccae5ee787?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rkpO0pLndEZ7dHynMJtiO9nZc99PuLuk24zTVIUT0MRQscYgwziIDSruNUsKcB9UqDNlHZUJqUC04E9WCs7kZg6jC1AC03vSYMBX1lGNvQYsvHGpHPyKzBBx7JtMVI8Vl0jMzhAN5Ha3CDWP-mNKGJgraDO6IQLyQnh4l5A0ASPvLjuKjVte4awXJu9XvPTBnkihWYkEW~yqnHtTzbIThNcRpkKZfExR5AnD-h8xsa3F8DaqE3rBzP6uA2Aw7BFz~Vp7AIkV62inMC26DGLemANIx9ibBrVEsDyaBbHdZAR7OmvXszESGSKES4oAyYIAFkLStffuJaweSH9z8PolvA__"
             alt=""
             className="koko"
           />
