@@ -13,7 +13,7 @@ function Fecth({ movies }) {
               <div className="movie" key={index}>
                 <p className="numbers">{index + 1}</p>
                 <img
-                  src={`https://media.themoviedb.org/t/p/w300_and_h450_bestv2${item.backdrop_path}`}
+                  src={`https://media.themoviedb.org/t/p/w300_and_h450_bestv2${item.poster_path}`}
                   alt=""
                   className="image-item"
                 />
