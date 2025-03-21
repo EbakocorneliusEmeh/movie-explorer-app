@@ -31,7 +31,7 @@ function Action({ onNavigate }) {
             <>
               <div className="move" key={index}>
                 <img
-                  src={`https://media.themoviedb.org/t/p/w300_and_h450_bestv2${item.poater_path}`}
+                  src={`https://media.themoviedb.org/t/p/w300_and_h450_bestv2${item.poster_path}`}
                   alt=""
                   className="item"
                   onClick={() => onNavigate(item)}
